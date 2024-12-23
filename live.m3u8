@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
+#EXTINF:3.0000,
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7339&deviceMac=00:1A:79:B1:85:69
