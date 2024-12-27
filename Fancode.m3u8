@@ -1,4 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://dai.google.com/linear/hls/event/YUU3cRK8S-yM8-P0XnQU4w/master.m3u8
+https://dai.fancode.com/linear/hls/pb/event/YUU3cRK8S-yM8-P0XnQU4w/stream/f7d066de-51a6-4340-b9b9-4880918f8158:SIN2/variant/f9dddf6ff77588ed5f242354fca1346e/bandwidth/3289416.m3u8
