@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=507418,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240
+https://testserver.buddyxiptv.com/fancode.php?url=
+#EXT-X-STREAM-INF:BANDWIDTH=962461,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360
+https://testserver.buddyxiptv.com/fancode.php?url=
+#EXT-X-STREAM-INF:BANDWIDTH=1282517,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480
+https://testserver.buddyxiptv.com/fancode.php?url=
+#EXT-X-STREAM-INF:BANDWIDTH=2447970,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720
+https://testserver.buddyxiptv.com/fancode.php?url=
+#EXT-X-STREAM-INF:BANDWIDTH=4561186,CODECS="mp4a.40.2,avc1.4d4028",RESOLUTION=1920x1080
+https://testserver.buddyxiptv.com/fancode.php?url=
