@@ -4,4 +4,4 @@ https://live.tsports.com/live-02/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/bF84TFt/BPL-2025.png", BPL - ENGLISH
 http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co.com/bF84TFt/BPL-2025.png", BPL - FANCODE [VPN]
-https://dai.fancode.com/primary/113367_english_hls_5017ta-no/1080p.m3u8
+https://dai.fancode.com/primary/113367_english_hls_5017ta-no/index.m3u8
